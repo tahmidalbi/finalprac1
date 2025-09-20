@@ -2,9 +2,9 @@
 using namespace std;
 
 public class bankaccount{
-    yoooooooo
-    yooooooo
-    yoooooo
+    nothing
+    nothing
+    nothing
 };
 
 public class add{
