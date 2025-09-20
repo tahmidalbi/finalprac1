@@ -9,6 +9,10 @@ public class add{
 
 };
 
+public class feature1{
+    
+}
+
 int main(){
 
 }
